@@ -20,9 +20,7 @@ ________________________________________________________________________________
 Example of Deployment: (with example code shown:)
 1. When prompted, the user will input the following data to add or retrieve a password:
 
-**Enter the action (add/retrieve): add
-Enter the service name: Gmail
-Enter the password: mySecurePassword123**
+**Enter the action (add/retrieve): add  Enter the service name: Gmail  Enter the password: mySecurePassword123**
 
 2. After the password is added, the user will see a confirmation that the password has been securely stored:
 
