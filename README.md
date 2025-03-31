@@ -13,9 +13,9 @@ For Example:
 - Key Management: The encryption key is generated and stored in a separate file to prevent it from being exposed in the same location as the stored passwords.
 
 - Logging Alerts: All actions are logged, and any potential security issues can be logged in the alerts.log file for future review.
-
-This code helps emphasizing encryption and best security practices in Password Management.
-
+  
+  
+This code helps emphasize encryption and best security practices involved in Password Management.
 _________________________________________________________________________________________________________________________________________________________________________
 Example of Deployment: (with example code shown:)
 1. When prompted, the user will input the following data to add or retrieve a password:
